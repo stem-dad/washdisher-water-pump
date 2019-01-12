@@ -1,8 +1,13 @@
 ## 食洗機用自動水ポンプマシーン
 
+<a href="https://github.com/stem-dad/washdisher-water-pump/blob/master/docs/device.jpeg?raw=true"><img src="https://github.com/stem-dad/washdisher-water-pump/blob/master/docs/device.jpeg?raw=true" width="300"></a>
+<a href="https://github.com/stem-dad/washdisher-water-pump/blob/master/docs/pump?raw=true"><img src="https://github.com/stem-dad/washdisher-water-pump/blob/master/docs/pump?raw=true" width="300"></a>
+
+<a href="https://photos.app.goo.gl/CMXhv62AGuqyXGTGA">Movie</a>
+
 ### 回路図
 
-![](https://github.com/stem-dad/washdisher-water-pump/blob/master/docs/circuit.jpg?raw=true)
+![](https://github.com/stem-dad/washdisher-water-pump/blob/master/docs/circuit.jpeg?raw=true)
 
 ### BOMリスト
 
