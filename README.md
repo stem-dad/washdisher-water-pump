@@ -1,7 +1,7 @@
 ## 食洗機用自動水ポンプマシーン
 
-<a href="https://github.com/stem-dad/washdisher-water-pump/blob/master/docs/device.jpg?raw=true"><img src="https://github.com/stem-dad/washdisher-water-pump/blob/master/docs/device.jpg?raw=true" width="300"></a>
-<a href="https://github.com/stem-dad/washdisher-water-pump/blob/master/docs/pump.jpg?raw=true"><img src="https://github.com/stem-dad/washdisher-water-pump/blob/master/docs/pump.jpg?raw=true" width="300"></a>
+<a href="https://github.com/stem-dad/washdisher-water-pump/blob/master/docs/device.jpg?raw=true"><img src="https://github.com/stem-dad/washdisher-water-pump/blob/master/docs/device.jpg?raw=true" width="360"></a>
+<a href="https://github.com/stem-dad/washdisher-water-pump/blob/master/docs/pump.jpg?raw=true"><img src="https://github.com/stem-dad/washdisher-water-pump/blob/master/docs/pump.jpg?raw=true" width="360"></a>
 
 <a href="https://photos.app.goo.gl/CMXhv62AGuqyXGTGA">Movie</a>
 
